@@ -1,0 +1,15 @@
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\bin\Debug\net6.0\AlgorithmBadge1.exe
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\bin\Debug\net6.0\AlgorithmBadge1.deps.json
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\bin\Debug\net6.0\AlgorithmBadge1.runtimeconfig.json
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\bin\Debug\net6.0\AlgorithmBadge1.dll
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\bin\Debug\net6.0\AlgorithmBadge1.pdb
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\AlgorithmBadge1.csproj.AssemblyReference.cache
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\AlgorithmBadge1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\AlgorithmBadge1.AssemblyInfoInputs.cache
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\AlgorithmBadge1.AssemblyInfo.cs
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\AlgorithmBadge1.csproj.CoreCompileInputs.cache
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\AlgorithmBadge1.dll
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\refint\AlgorithmBadge1.dll
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\AlgorithmBadge1.pdb
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\AlgorithmBadge1.genruntimeconfig.cache
+D:\ReadyToGoal\AlgorithmBadge1\AlgorithmBadge1\obj\Debug\net6.0\ref\AlgorithmBadge1.dll
